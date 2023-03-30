@@ -24,4 +24,5 @@
  <li>https://decrypt.tools/</li>
  <li>https://md5.gromweb.com/</li>
  <li>https://www.nitrxgen.net/</li>
+ <li>https://www.onlinehashcrack.com/</li>
 </ul>
