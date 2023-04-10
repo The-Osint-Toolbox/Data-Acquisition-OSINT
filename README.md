@@ -1,5 +1,5 @@
 # Data-OSINT
-<p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Telegram is included however you will have to find groups on the platfrom and these change frequently. Always remember to consider what data you are allowed or not allowed to collect. </p>
+<p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Telegram is included however you will have to find groups on the platfrom and these change frequently. Always remember to consider what data you are allowed or not allowed to collect. When researching data, always be careful what you click or download as malware maybe present.</p>
 <p>Data Sites</p>
 <ul>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
