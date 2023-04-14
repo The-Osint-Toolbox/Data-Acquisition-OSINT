@@ -3,6 +3,7 @@
 <p>Data Sites</p>
 <ul>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
+ <li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
@@ -15,6 +16,7 @@
  <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
  <li><a href="https://search.illicit.services/">Search Illicit</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
+ <li><a href="https://wikileaks.org/">Wikileaks</a></li>
   <p><li><a href="https://web.telegram.org/">Telegram</a></li></p>
 </ul>
 <p>Reverse Hash Sites<p>
