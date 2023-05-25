@@ -20,6 +20,7 @@
  <li><a href="https://leakix.net/">Leakix</a></li>
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
+ <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://pastebin.com/">Pastbin</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
