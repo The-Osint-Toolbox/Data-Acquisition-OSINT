@@ -29,14 +29,16 @@
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
   <p><li><a href="https://web.telegram.org/">Telegram</a></li></p>
 </ul>
+<br></br>
 <p>Reverse Hash Sites<p>
 <ul>
- <li><a href="https://dehash.me/">Dehash</a></li>
- <li><a href="https://hashcat.net/hashcat/">Hashcat</a></li> 
- <li><a href="https://hash.ziggi.org/">Hash Ziggi</a></li>
- <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
  <li><a href="https://crackstation.net/">Crackstation</a></li>
  <li><a href="https://decrypt.tools/">Decrypt Tools</a></li>
+ <li><a href="https://dehash.me/">Dehash</a></li>
+ <li><a href="https://hashcat.net/hashcat/">Hashcat</a></li> 
+ <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
+ <li><a href="https://hash.ziggi.org/">Hash Ziggi</a></li>
+ <li><a href="https://www.openwall.com/john/">John The Ripper</a></li> 
  <li><a href="https://md5.gromweb.com/">MD5 Gromweb</a></li>
  <li><a href="https://www.nitrxgen.net/">Nitrxgen</a></li>
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
