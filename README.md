@@ -32,6 +32,7 @@
 <p>Reverse Hash Sites<p>
 <ul>
  <li><a href="https://dehash.me/">Dehash</a></li>
+ <li><a href="https://hashcat.net/hashcat/">Hashcat</a></li> 
  <li><a href="https://hash.ziggi.org/">Hash Ziggi</a></li>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
  <li><a href="https://crackstation.net/">Crackstation</a></li>
