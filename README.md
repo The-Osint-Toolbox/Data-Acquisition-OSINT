@@ -43,3 +43,9 @@
  <li><a href="https://www.nitrxgen.net/">Nitrxgen</a></li>
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
 </ul>
+<br></br>
+<p>Blogs</p>
+<ul>
+ <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT
+</ul>
+<br></br>
