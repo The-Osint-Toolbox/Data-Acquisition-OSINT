@@ -46,6 +46,6 @@
 <br></br>
 <p>Blogs</p>
 <ul>
- <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT
+ <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT (2023)
 </ul>
 <br></br>
