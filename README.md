@@ -15,6 +15,7 @@
  <li><a href="https://dehashed.com/">Dehashed</a></li>
  <li><a href="https://github.com/cipher387/pastebinsearchengines">Goolge CSE for Pastbin</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
+ <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
  <li><a href="https://leakcheck.io/">Leakcheck</a></li>
  <li><a href="https://leakix.net/">Leakix</a></li>
