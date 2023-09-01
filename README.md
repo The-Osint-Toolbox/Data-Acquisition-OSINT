@@ -28,6 +28,7 @@
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
  <li><a href="https://search.illicit.services/">Search Illicit*</a></li>*Currently down and unlikely to come back*
+ <li><a href="https://search.infinitysec.co/">Search Infinity Sec</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://worldcat.org/">WorldCat</a>&nbsp;&nbsp;Find items in libraries near you.</li> 
