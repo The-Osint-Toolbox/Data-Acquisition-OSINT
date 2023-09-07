@@ -24,6 +24,7 @@
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
  <li><a href="https://myth.rip/">Myth</a></li> 
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
+ <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://pastebin.com/">Pastbin</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
