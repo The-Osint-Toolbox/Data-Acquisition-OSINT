@@ -28,7 +28,7 @@
  <li><a href="https://pastebin.com/">Pastbin</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
- <li><a href="https://search.illicit.services/">Search Illicit*</a></li>*Currently down and unlikely to come back*
+ <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li>
  <li><a href="https://search.infinitysec.co/">Search Infinity Sec</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
