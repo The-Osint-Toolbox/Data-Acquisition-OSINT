@@ -17,6 +17,7 @@
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
+ <li><a href="https://leakbase.io/">Leakbase</a></li>
  <li><a href="https://leakcheck.io/">Leakcheck</a></li>
  <li><a href="https://leaked.domains/">Leaked Domains</a></li>
  <li><a href="https://leakix.net/">Leakix</a></li>
