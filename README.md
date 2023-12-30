@@ -17,6 +17,7 @@
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
  <li><a href="https://github.com/cipher387/pastebinsearchengines">Google CSE for Pastbin</a></li>
  <li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
+ <li><a href="https://grep.app/">Grep App</a>&nbsp;&nbsp;Search GitHub Repositories</li>
  <li><a href="https://github.com/khast3x/h8mail">H8mail</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
@@ -38,7 +39,6 @@
  <li><a href="https://search.infinitysec.co/">Search Infinity Sec</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
- <li><a href="https://worldcat.org/">WorldCat</a>&nbsp;&nbsp;Find items in libraries near you.</li> 
   <p><li><a href="https://web.telegram.org/">Telegram</a></li></p>
 </ul>
 <br></br>
