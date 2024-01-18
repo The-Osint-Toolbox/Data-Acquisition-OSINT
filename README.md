@@ -13,6 +13,7 @@
  <li><a href="https://breachbase.com/">Breachbase</a></li>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
  <li><a href="https://breachforums.is/">Breach Forums</a></li>
+ <li><a href="https://www.databreaches.net/">DataBreaches</a></li>
  <li><a href="https://github.com/fastfire/deepdarkCTI">DeepDark CTI</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
