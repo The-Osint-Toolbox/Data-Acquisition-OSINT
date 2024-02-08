@@ -32,6 +32,7 @@
  <li><a href="https://leakix.net/">Leakix</a></li>
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
+ <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
  <li><a href="https://myth.rip/">Myth</a></li> 
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
