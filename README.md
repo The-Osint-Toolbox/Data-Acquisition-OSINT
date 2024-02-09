@@ -36,15 +36,21 @@
  <li><a href="https://myth.rip/">Myth</a></li> 
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
- <li><a href="https://pastebin.com/">Pastbin</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
- <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
  <li><a href="https://scylla.so/">Scylla</a>&nbsp;&nbsp;In development</li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li>
  <li><a href="https://search.infinitysec.co/">Search Infinity Sec</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
   <p><li><a href="https://web.telegram.org/">Telegram</a></li></p>
+</ul>
+<br></br>
+<p>Paste Sites</p>
+<ul>
+  <li><a href="https://justpaste.it/">Just Paste It</a></li>
+  <li><a href="https://paste.mozilla.org/">Mozilla Community Pastebin</a></li>
+  <li><a href="https://pastebin.com/">Pastbin</a></li>
+  <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
 </ul>
 <br></br>
 <p>Reverse Hash Sites<p>
