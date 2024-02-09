@@ -16,6 +16,7 @@
  <li><a href="https://www.databreaches.net/">DataBreaches</a></li>
  <li><a href="https://github.com/fastfire/deepdarkCTI">DeepDark CTI</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li>
+ <li><a href="https://github.com/rdillon73/eBreached">eBreached</a></li>
  <li><a href="https://github.com/infobyte/emploleaks">EmploLeaks</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
  <li><a href="https://github.com/cipher387/pastebinsearchengines">Google CSE for Pastbin</a></li>
