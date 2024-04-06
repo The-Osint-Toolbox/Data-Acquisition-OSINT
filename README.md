@@ -38,7 +38,8 @@
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
  <li><a href="https://osint.lolarchiver.com/database_lookup">Lol Archiver</a></li>
  <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
- <li><a href="https://myth.rip/">Myth</a></li> 
+ <li><a href="https://myth.rip/">Myth</a></li>
+ <li><a href="https://nuclearleaks.com/search">Nuclear Leaks</a></li>
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
