@@ -32,6 +32,7 @@
  <li><a href="https://leakcheck.io/">Leakcheck</a></li>
  <li><a href="https://leaked.domains/">Leaked Domains</a></li>
  <li><a href="https://leakix.net/">Leakix</a></li>
+ <li><a href="https://leak.sx/">Leaksx</a></li>
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
  <li><a href="https://osint.lolarchiver.com/database_lookup">Lol Archiver</a></li>
