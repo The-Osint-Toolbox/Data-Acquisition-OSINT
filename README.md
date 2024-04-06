@@ -26,6 +26,7 @@
  <li><a href="https://github.com/khast3x/h8mail">H8mail</a></li>
  <li><a href="https://github.com/hacxx-underground/Files">Hacxx Underground</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
+ <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
  <li><a href="https://leakbase.io/">Leakbase</a></li>
