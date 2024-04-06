@@ -48,6 +48,7 @@
  <li><a href="https://scylla.so/">Scylla</a>&nbsp;&nbsp;In development</li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li>
  <li><a href="https://search.infinitysec.co/">Search Infinity Sec</a></li>
+ <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
   <p><li><a href="https://web.telegram.org/">Telegram</a></li></p>
