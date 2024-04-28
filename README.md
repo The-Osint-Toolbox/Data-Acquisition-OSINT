@@ -51,9 +51,8 @@
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
-  <p><li><a href="https://web.telegram.org/">Telegram</a></li></p>
+ <li><a href="https://web.telegram.org/">Telegram</a></li>
 </ul>
-<br></br>
 <p>Paste Sites</p>
 <ul>
   <li><a href="https://justpaste.it/">Just Paste It</a></li>
@@ -61,7 +60,6 @@
   <li><a href="https://pastebin.com/">Pastbin</a></li>
   <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
 </ul>
-<br></br>
 <p>Reverse Hash Sites<p>
 <ul>
  <li><a href="https://crackstation.net/">Crackstation</a></li>
@@ -75,9 +73,12 @@
  <li><a href="https://www.nitrxgen.net/">Nitrxgen</a></li>
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
 </ul>
-<br></br>
 <p>Blogs</p>
 <ul>
- <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT (2023)
+ <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT. (2023)
 </ul>
+<p>Video</p>
+ <ul>
+   <li><a href="https://www.youtube.com/watch?v=AMhY0Dt9sY0&list=PLs4eo9Tja8bi1RZyKT_HlN48QLIRW6HhG&index=4">SANS</a></li>Breach Data Infrastructure. (2024)
+ </ul>
 <br></br>
