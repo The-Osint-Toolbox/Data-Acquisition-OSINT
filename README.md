@@ -27,7 +27,7 @@
  <li><a href="https://github.com/hacxx-underground/Files">Hacxx Underground</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
- <li><a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)/">Hudson Rock Cybercrime Intelligence Tools</a></li>
+ <li><a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools/">Hudson Rock Cybercrime Intelligence Tools</a></li>
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
  <li><a href="https://leakbase.io/">Leakbase</a></li>
