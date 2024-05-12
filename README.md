@@ -74,6 +74,13 @@
  <li><a href="https://www.nitrxgen.net/">Nitrxgen</a></li>
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
 </ul>
+<p>News</p>
+<ul>
+  <li><a href="https://dailydarkweb.net/">Daily Darkweb</a></li>
+  <li><a href="https://databreaches.net/">Data Breaches</a></li>
+  <li><a href="https://www.infosecurity-magazine.com/data-breaches">InfoSecurity Magazine</a></li>
+  <li><a href="https://thehackernews.com/">The Hacker News</a></li>
+</ul>
 <p>Blogs</p>
 <ul>
  <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT. (2023)
