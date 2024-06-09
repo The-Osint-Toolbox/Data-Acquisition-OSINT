@@ -110,14 +110,6 @@
 </ul>
 <table>
     <tr>
-     <td>Blogs</td>
-   </tr>
-</table>
-<ul>
- <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT. (2023)
-</ul>
-<table>
-    <tr>
      <td>Videos</td>
    </tr>
 </table>
