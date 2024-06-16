@@ -1,6 +1,6 @@
 # Data-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. When researching data, always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently. You can check my Telegram repository for more resources.</p>
 <table>
