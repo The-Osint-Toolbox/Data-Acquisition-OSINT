@@ -75,10 +75,12 @@
    </tr>
 </table>
 <ul>
+  <li><a href="https://cybdetective.com/pastebin.html">CybDetective</a></li>
   <li><a href="https://justpaste.it/">Just Paste It</a></li>
   <li><a href="https://paste.mozilla.org/">Mozilla Community Pastebin</a></li>
   <li><a href="https://pastebin.com/">Pastbin</a></li>
   <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
+  <li><a href="https://redhuntlabs.com/online-ide-search/">Redhunt Labs</a></li>
 </ul>
 <table>
     <tr>
