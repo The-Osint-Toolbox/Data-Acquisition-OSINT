@@ -67,6 +67,7 @@
  <li><a href="https://search.infinitysec.co/">Search Infinity Sec</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
+ <li><a href="https://www.safer-networking.org/products/spybot-identity-monitor/">SpyBot</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
  <li><a href="https://web.telegram.org/">Telegram</a></li>
