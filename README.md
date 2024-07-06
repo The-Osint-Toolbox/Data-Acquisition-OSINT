@@ -94,7 +94,8 @@
  <li><a href="https://crackstation.net/">Crackstation</a></li>
  <li><a href="https://decrypt.tools/">Decrypt Tools</a></li>
  <li><a href="https://dehash.me/">Dehash</a></li>
- <li><a href="https://hashcat.net/hashcat/">Hashcat</a></li> 
+ <li><a href="https://hashcat.net/hashcat/">Hashcat</a></li>
+ <li><a href="https://hashmob.net/">HashMob</a></li>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
  <li><a href="https://hash.ziggi.org/">Hash Ziggi</a></li>
  <li><a href="https://www.openwall.com/john/">John The Ripper</a></li> 
