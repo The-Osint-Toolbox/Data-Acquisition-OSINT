@@ -36,7 +36,6 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://github.com/infobyte/emploleaks">EmploLeaks</a></li>
  <li><a href="https://exposed.lol/">Exposed</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
- <li><a href="https://github.com/cipher387/pastebinsearchengines">Google CSE for Pastbin</a></li>
  <li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
  <li><a href="https://grep.app/">Grep App</a>&nbsp;&nbsp;Search GitHub Repositories</li>
  <li><a href="https://github.com/khast3x/h8mail">H8mail</a></li>
@@ -80,6 +79,7 @@ When researching data sites always be careful what you click or download as malw
 </table>
 <ul>
   <li><a href="https://cybdetective.com/pastebin.html">CybDetective</a></li>
+  <li><a href="https://github.com/cipher387/pastebinsearchengines">Google CSE for Pastbin</a></li>
   <li><a href="https://justpaste.it/">Just Paste It</a></li>
   <li><a href="https://paste.mozilla.org/">Mozilla Community Pastebin</a></li>
   <li><a href="https://pastebin.com/">Pastbin</a></li>
