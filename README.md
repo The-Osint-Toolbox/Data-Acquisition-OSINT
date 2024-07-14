@@ -19,7 +19,7 @@
    </ul>
 <table>
     <tr>
-     <td>Dataset Sites</td>
+     <td>Data Sites</td>
    </tr>
 </table>
 <ul>
