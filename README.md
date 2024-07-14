@@ -105,6 +105,14 @@
 </ul>
 <table>
     <tr>
+       <td>Traditional Data Sites</td>
+    </tr>
+</table>  
+    <ul>
+      <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
+    </ul>
+<table>
+    <tr>
      <td>News</td>
    </tr>
 </table>
