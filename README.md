@@ -115,6 +115,7 @@ When researching data sites always be careful what you click or download as malw
       <li><a href="https://discovery.nationalarchives.gov.uk/">UK National Archives</a></li>
       <li><a href="https://www.gov.uk/search-register-planning-decisions">UK Planning Portal</a></li>
       <li><a href="https://thephonebook.bt.com/person/">UK Phonebook</a></li>
+      <li><a href="https://www.data.gov.uk/">UK Public Data Portal</a></li>
       <li><a href="https://www.usphonebook.com/phone">US Phonebook</a></li>
       <li><a href="https://www.whitepages.com/">Whitepages</a></li>
     </ul>
