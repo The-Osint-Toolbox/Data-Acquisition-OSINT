@@ -2,7 +2,7 @@
 <p align="center">
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
-<p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. 
+<p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. These resources are not just for OSINT, they are also for checking your own potentially exposure. 
 <br></br>
 Public data and publically available data are two different concepts. Within the UK and the US individual local authority areas / states have there own local public data searches available, to many for rme to list here. The same is true of many other counteries.
 <br></br>
@@ -46,6 +46,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
  <li><a href="https://haveibeenzuckered.com/">Haveibeenzuckered</a></li>
  <li><a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools/">Hudson Rock Cybercrime Intelligence Tools</a></li>
+ <li><a href="https://www.idstrong.com/">Id Strong</a></li> 
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
  <li><a href="https://leakbase.io/">Leakbase</a></li>
