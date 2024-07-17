@@ -31,6 +31,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
  <li><a href="https://breachforums.st/">Breach Forums</a></li>
  <li><a href="https://cryptome.org/">Cryptome</a></li>
+ <li><a href="https://cybernews.com/personal-data-leak-check/">Cybernews</a></li>
  <li><a href="https://www.databreaches.net/">DataBreaches</a></li>
  <li><a href="https://github.com/fastfire/deepdarkCTI">DeepDark CTI</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li>
