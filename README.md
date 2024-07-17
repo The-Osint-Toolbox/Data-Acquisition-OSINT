@@ -2,7 +2,9 @@
 <p align="center">
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
-<p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. Public data and publically available data are two different concepts. Within the UK and the US individual local authority areas / states have there own local public data searches available, to many for rme to list here. The same is true of many other counteries.
+<p>You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. 
+<br></br>
+Public data and publically available data are two different concepts. Within the UK and the US individual local authority areas / states have there own local public data searches available, to many for rme to list here. The same is true of many other counteries.
 <br></br>
 When researching data sites always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently. You can check my Telegram repository for more resources.</p>
 <table>
