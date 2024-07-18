@@ -12,7 +12,7 @@ When researching data sites always be careful what you click or download as malw
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
     </tr>
 </table>
-<p>If you find your details on a site, and it is a reputable site, it may offer you a means to remove it. You could also consider other ways to remove it, such as rights under GDPR or CCPA s examples. You will find some resources in my Privacy Opt-Out repository that may help too.</p>
+<p>If you find your details on a site, and it is a reputable site, it may offer you a means to remove it. You could also consider other ways to remove it, such as rights under GDPR or CCPA as examples. You will find some resources in my Privacy Opt-Out repository that may help too.</p>
 <table>
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
