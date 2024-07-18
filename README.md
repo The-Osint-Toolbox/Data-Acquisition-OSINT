@@ -53,6 +53,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
  <li><a href="https://haveibeenzuckered.com/">Haveibeenzuckered</a></li>
  <li><a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools/">Hudson Rock Cybercrime Intelligence Tools</a></li>
+ <li><a href="https://www.intelius.com/">Intelius</a></li> 
  <li><a href="https://www.idstrong.com/">Id Strong</a></li> 
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
