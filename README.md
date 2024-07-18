@@ -74,6 +74,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://att.pentester.com/">Pentester</a></li>
+ <li><a href="https://www.peoplefinders.com/">PeopleFinder</a></li>
  <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
  <li><a href="https://scatteredsecrets.com/">Scattered Secrets</a></li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>
