@@ -85,6 +85,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://www.whatismyip.com/data-breach/">WhatsMyIp-DataBreachTool</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
+ <li><a href="https://www.whitepages.com/">Whitepages</a></li>
 </ul>
 <table>
     <tr>
@@ -134,7 +135,6 @@ When researching data sites always be careful what you click or download as malw
       <li><a href="https://data.census.gov/">US Census Data</a></li>
       <li><a href="https://www.eac.gov/voters/register-and-vote-in-your-state">US Federal State Voting Links</a></li>
       <li><a href="https://www.usphonebook.com/phone">US Phonebook</a></li>
-      <li><a href="https://www.whitepages.com/">Whitepages</a></li>
     </ul>
 <table>
     <tr>
