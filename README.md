@@ -130,6 +130,7 @@ When researching data sites always be careful what you click or download as malw
     <ul>
       <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
       <li><a href="https://find-and-update.company-information.service.gov.uk/">UK Companies House</a></li>
+      <li><a href="https://www.data.gov.uk/">UK Government Data Portal</a></li>
       <li><a href="https://www.gov.uk/search-library-catalogue">UK Library Search</a></li>
       <li><a href="https://discovery.nationalarchives.gov.uk/">UK National Archives</a></li>
       <li><a href="https://www.gov.uk/search-register-planning-decisions">UK Planning Portal</a></li>
