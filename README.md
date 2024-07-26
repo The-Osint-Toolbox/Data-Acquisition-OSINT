@@ -149,6 +149,7 @@ When researching data sites always be careful what you click or download as malw
 </table>
 <ul>
   <li><a href="https://dailydarkweb.net/">Daily Darkweb</a></li>
+  <li><a href="https://darkwebinformer.com/">DarkWeb Informer</a></li>
   <li><a href="https://databreaches.net/">Data Breaches</a></li>
   <li><a href="https://anydesk.com/en/downloads/linux">Hackmanac</a></li>
   <li><a href="https://www.infosecurity-magazine.com/data-breaches">InfoSecurity Magazine</a></li>
