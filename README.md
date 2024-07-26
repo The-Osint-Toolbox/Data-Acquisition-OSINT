@@ -29,7 +29,7 @@ When researching data sites always be careful what you click or download as malw
    </ul>
 <table>
     <tr>
-     <td>Data Sites</td>
+     <td>Data Acquisition Sites</td>
    </tr>
 </table>
 <ul>
