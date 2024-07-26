@@ -60,6 +60,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://www.idstrong.com/">Id Strong</a></li> 
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/">Intelx</a></li>
+ <li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>
  <li><a href="https://leakbase.io/">Leakbase</a></li>
  <li><a href="https://leakcheck.io/">Leakcheck</a></li>
  <li><a href="https://leaked.domains/">Leaked Domains</a></li>
