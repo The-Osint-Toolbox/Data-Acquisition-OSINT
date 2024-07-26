@@ -33,7 +33,8 @@ When researching data sites always be careful what you click or download as malw
    </tr>
 </table>
 <ul>
- <li><a href="https://archive.org/details/datasets">Archive.org Datasets</a></li>
+ <li><a href="https://academictorrents.com/">Acedemic Torrents</a></li>
+ <li><a href="https://archive.org/details/datasets">Archive Datasets</a></li>
  <li><a href="https://breachbase.com/">Breachbase</a></li>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
  <li><a href="https://breachforums.st/">Breach Forums</a></li>
