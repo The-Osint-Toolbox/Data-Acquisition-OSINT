@@ -24,6 +24,7 @@ When researching data sites always be careful what you click or download as malw
    </tr>
 </table>
    <ul>
+    <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li> 
     <li><a href="https://ransomfeed.it/">RansomFeed</a></li>
     <li><a href="https://www.ransomlook.io/">RansomLook</a></li>
    </ul>
