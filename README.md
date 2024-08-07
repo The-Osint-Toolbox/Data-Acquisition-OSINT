@@ -49,7 +49,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://github.com/infobyte/emploleaks">EmploLeaks</a></li>
  <li><a href="https://exposed.lol/">Exposed</a></li>
  <li><a href="https://filepursuit.com">File Pursuit</a></li>
- <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
+ <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
  <li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
  <li><a href="https://grep.app/">Grep App</a>&nbsp;&nbsp;</li>
