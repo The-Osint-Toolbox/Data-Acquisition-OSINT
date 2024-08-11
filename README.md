@@ -19,16 +19,6 @@ When researching data sites always be careful what you click or download as malw
     </tr>
 </table>
 <table>
-   <tr>
-     <td>Ransomware Threat Intelligence</td>
-   </tr>
-</table>
-   <ul>
-    <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li> 
-    <li><a href="https://ransomfeed.it/">RansomFeed</a></li>
-    <li><a href="https://www.ransomlook.io/">RansomLook</a></li>
-   </ul>
-<table>
     <tr>
      <td>Publicly Available Data Acquisition Sites</td>
    </tr>
@@ -150,6 +140,16 @@ When researching data sites always be careful what you click or download as malw
   <li><a href="https://redhuntlabs.com/online-ide-search/">Redhunt Labs</a></li>
 </ul>
 <table>
+   <tr>
+     <td>Ransomware Threat Intelligence</td>
+   </tr>
+</table>
+   <ul>
+    <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li> 
+    <li><a href="https://ransomfeed.it/">RansomFeed</a></li>
+    <li><a href="https://www.ransomlook.io/">RansomLook</a></li>
+   </ul>
+<table>
     <tr>
      <td>Reverse Hash Sites</td>
    </tr>
@@ -167,6 +167,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://www.nitrxgen.net/">Nitrxgen</a></li>
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
 </ul>
+<table>  
     <tr>
      <td>News</td>
    </tr>
