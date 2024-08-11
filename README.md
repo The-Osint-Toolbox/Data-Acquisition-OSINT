@@ -52,6 +52,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
  <li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
+ <li><a href="https://www.google.com/publicdata/directory">Google Public DaTa Search</a></li>
  <li><a href="https://grep.app/">Grep App</a>&nbsp;&nbsp;</li>
  <li><a href="https://github.com/khast3x/h8mail">H8mail</a></li>
  <li><a href="https://github.com/hacxx-underground/Files">Hacxx Underground</a></li>
@@ -95,6 +96,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://www.whatismyip.com/data-breach/">WhatsMyIp-DataBreachTool</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
+ <li><a href="https://www.who.int/data/gho/">WHO Open Data</a></li>
  <li><a href="https://www.whitepages.com/">Whitepages</a></li>
 </ul>
 <table>
