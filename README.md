@@ -30,7 +30,7 @@ When researching data sites always be careful what you click or download as malw
    </ul>
 <table>
     <tr>
-     <td>Data Acquisition Sites</td>
+     <td>Publicly Available Data Acquisition Sites</td>
    </tr>
 </table>
 <ul>
@@ -84,6 +84,7 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
+ <li><a href="https://opendataimpactmap.org/">Open Data Impact Map</a></li>
  <li><a href="https://att.pentester.com/">Pentester</a></li>
  <li><a href="https://www.peoplefinders.com/">PeopleFinder</a></li>
  <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
@@ -96,12 +97,44 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://sourcegraph.com/search">SourceGraph</a></li>
  <li><a href="https://www.safer-networking.org/products/spybot-identity-monitor/">SpyBot</a></li>
  <li><a href="https://www.publicaccountability.org/">The Accountability Project</a></li>
+ <li><a href="https://archive.ics.uci.edu/">UCI Machine Learning Repository</a></li>
  <li><a href="https://www.whatismyip.com/data-breach/">WhatsMyIp-DataBreachTool</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
  <li><a href="https://www.who.int/data/gho/">WHO Open Data</a></li>
  <li><a href="https://www.whitepages.com/">Whitepages</a></li>
 </ul>
+<table>
+    <tr>
+       <td>Public Data Acquisition Sites</td>
+    </tr>
+</table>  
+    <ul>
+      <li><a href="https://data.gov.au/home">Australian Government Data Portal</a></li>
+      <li><a href="https://www.canlii.org/en/index.php">Canadian Legal Database</a></li>
+      <li><a href="https://data.cdrc.ac.uk/search/type/dataset">CDRC Data</a></li>
+      <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
+      <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
+      <li><a href="https://find-and-update.company-information.service.gov.uk/">UK Companies House</a></li>
+      <li><a href="https://www.judiciary.uk/judgments/">UK Courts & Tribunals Judiciary.</a></li>
+      <li><a href="https://www.gmc-uk.org/registration-and-licensing/the-medical-register">UK GMC Medical Register</a></li>
+      <li><a href="https://www.data.gov.uk/">UK Government Data Portal</a></li>
+      <li><a href="https://www.gov.uk/search-library-catalogue">UK Library Search</a></li>
+      <li><a href="https://discovery.nationalarchives.gov.uk/">UK National Archives</a></li>
+      <li><a href="https://www.gov.uk/search-register-planning-decisions">UK Planning Portal</a></li>
+      <li><a href="https://thephonebook.bt.com/person/">UK Phonebook</a></li>
+      <li><a href="https://www.data.gov.uk/">UK Public Data Portal</a></li>
+      <li><a href="https://www.supremecourt.uk/current-cases/index.html">UK Surpreme Court</a></li>
+      <li><a href="https://www.gov.uk/search-for-trademark">UK Trademark Search</a></li>
+      <li><a href="https://data.unicef.org/">Unicef Open Data</a></li>
+      <li><a href="https://data.census.gov/">US Census Data</a></li>
+      <li><a href="https://www.eac.gov/voters/register-and-vote-in-your-state">US Federal State Voting Links</a></li>
+      <li><a href="https://data.gov/">US Government Data Portal</a></li>
+      <li><a href="https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html">US Securities & Exchange Commission</a></li>
+      <li><a href="https://www.usphonebook.com/phone">US Phonebook</a></li>
+      <li><a href="https://data.worldbank.org/">World Bank Open Data</a></li>
+    </ul>
+<table>
 <table>
     <tr>
      <td>Paste Sites</td>
@@ -134,37 +167,6 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://www.nitrxgen.net/">Nitrxgen</a></li>
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
 </ul>
-<table>
-    <tr>
-       <td>Traditional Data Sites</td>
-    </tr>
-</table>  
-    <ul>
-      <li><a href="https://data.gov.au/home">Australian Government Data Portal</a></li>
-      <li><a href="https://www.canlii.org/en/index.php">Canadian Legal Database</a></li>
-      <li><a href="https://data.cdrc.ac.uk/search/type/dataset">CDRC Data</a></li>
-      <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
-      <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
-      <li><a href="https://find-and-update.company-information.service.gov.uk/">UK Companies House</a></li>
-      <li><a href="https://www.judiciary.uk/judgments/">UK Courts & Tribunals Judiciary.</a></li>
-      <li><a href="https://www.gmc-uk.org/registration-and-licensing/the-medical-register">UK GMC Medical Register</a></li>
-      <li><a href="https://www.data.gov.uk/">UK Government Data Portal</a></li>
-      <li><a href="https://www.gov.uk/search-library-catalogue">UK Library Search</a></li>
-      <li><a href="https://discovery.nationalarchives.gov.uk/">UK National Archives</a></li>
-      <li><a href="https://www.gov.uk/search-register-planning-decisions">UK Planning Portal</a></li>
-      <li><a href="https://thephonebook.bt.com/person/">UK Phonebook</a></li>
-      <li><a href="https://www.data.gov.uk/">UK Public Data Portal</a></li>
-      <li><a href="https://www.supremecourt.uk/current-cases/index.html">UK Surpreme Court</a></li>
-      <li><a href="https://www.gov.uk/search-for-trademark">UK Trademark Search</a></li>
-      <li><a href="https://data.unicef.org/">Unicef Open Data</a></li>
-      <li><a href="https://data.census.gov/">US Census Data</a></li>
-      <li><a href="https://www.eac.gov/voters/register-and-vote-in-your-state">US Federal State Voting Links</a></li>
-      <li><a href="https://data.gov/">US Government Data Portal</a></li>
-      <li><a href="https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html">US Securities & Exchange Commission</a></li>
-      <li><a href="https://www.usphonebook.com/phone">US Phonebook</a></li>
-      <li><a href="https://data.worldbank.org/">World Bank Open Data</a></li>
-    </ul>
-<table>
     <tr>
      <td>News</td>
    </tr>
