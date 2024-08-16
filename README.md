@@ -101,6 +101,7 @@ When researching data sites always be careful what you click or download as malw
       <li><a href="https://www.canlii.org/en/index.php">Canadian Legal Database</a></li>
       <li><a href="https://data.cdrc.ac.uk/search/type/dataset">CDRC Data</a></li>
       <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
+      <li><a href="https://transparencyreport.google.com/copyright/explore">Google Copyright Explore</a></li>
       <li><a href="https://www.google.com/publicdata/directory">Google Public Data Search</a></li>
       <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
       <li><a href="https://opendataimpactmap.org/">Open Data Impact Map</a></li>
