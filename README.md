@@ -70,7 +70,8 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://nuclearleaks.com/search">Nuclear Leaks</a></li>
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
- <li><a href="https://att.pentester.com/">Pentester</a></li>
+ <li><a href="https://att.pentester.com/">ATT Pentester</a></li>
+ <li><a href="https://npd.pentester.com/">NPD Pentester</a></li>
  <li><a href="https://www.peoplefinders.com/">PeopleFinder</a></li>
  <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
  <li><a href="https://periksadata.com/">Periksa Data</a></li>
