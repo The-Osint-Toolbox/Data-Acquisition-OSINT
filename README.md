@@ -16,13 +16,13 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <td><a href="https://github.com/The-Osint-Toolbox/People-Search-OSINT">People Search</a></td>
    </tr>
 </table>
-When researching data sites always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently. You can check my Telegram repository for more resources.
+<p>When researching data sites always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently. You can check my Telegram repository for more resources.</p>
 <table>
     <tr>
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
     </tr>
 </table>
-If you find your data on a site, and it is a reputable site, it may offer you a means to remove it. You could also consider other ways to remove it, such as rights under GDPR or CCPA as examples. You will find some resources in my Privacy Opt-Out repository that may help too.
+<p>If you find your data on a site, and it is a reputable site, it may offer you a means to remove it. You could also consider other ways to remove it, such as rights under GDPR or CCPA as examples. You will find some resources in my Privacy Opt-Out repository that may help too.</p>
 <table>
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
