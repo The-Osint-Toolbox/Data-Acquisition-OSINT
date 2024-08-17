@@ -6,6 +6,10 @@
 <br></br>
 Public data and publically available data are two different concepts. Within the UK and the US individual local authority areas / states have there own local public data searches available, to many for rme to list here. The same is true of many other counteries.
 <br></br>
+It is always important to understand and acknowledge that for certain types of data, you have to consider the following, Legislation, Lawfulness, Regulations, Ethics, Morals and Polices. Be under no illusion, in some countries and jurisdictions certain types of data maybe out of bounds for some OSINT practitioners and I recommend you understand those limitations placed upon you before embarking on acquiring data for OSINT, especially when it comes to the lawfulness of your activity.
+<br></br>
+It is important to remember Data Acquisition OSINT is not just about one stream of Data. It includes both Public Data and Publicly Available Data.  You must ensure that if you acquire data for OSINT that you use it responsibly and lawfully regardless of its origins. This is the same of any OSINT material you acquire.
+<br></br>
 When researching data sites always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently. You can check my Telegram repository for more resources.</p>
 <table>
     <tr>
