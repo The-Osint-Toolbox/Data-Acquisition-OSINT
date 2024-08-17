@@ -10,7 +10,7 @@ It is always important to understand and acknowledge that for certain types of d
 <br></br>
 It is important to remember Data Acquisition OSINT is not just about one stream of Data. It includes both Public Data and Publicly Available Data.  You must ensure that if you acquire data for OSINT that you use it responsibly and lawfully regardless of its origins. This is the same of any OSINT material you acquire.
 <br></br>
-Another stream of data worth considering is Data Broker data. Data collected when you sign up for an online service or when you download an app, and is then subsequently sold to Data Brokers. This is then aggregated with other Public Data and Publicly Available Data and combined to provide a product to sell, You can find some of these sites on the People Search repo.
+<p>Another stream of data worth considering is Data Broker data. Data collected when you sign up for an online service or when you download an app, and is then subsequently sold to Data Brokers. This is then aggregated with other Public Data and Publicly Available Data and combined to provide a product to sell, You can find some of these sites on the People Search repo.</p>
 <table>
    <tr>
       <td><a href="https://github.com/The-Osint-Toolbox/People-Search-OSINT">People Search</a></td>
