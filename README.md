@@ -64,7 +64,6 @@ When researching data sites always be careful what you click or download as malw
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
  <li><a href="https://github.com/JoelGMSec/LeakSearch">LeakSearch</a></li>
- <li><a href="https://osint.lolarchiver.com/database_lookup">Lol Archiver</a></li>
  <li><a href="https://loseprivacy.net/">LosePrivacy PWNED!</a></li>
  <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
  <li><a href="https://myth.rip/">Myth</a></li>
