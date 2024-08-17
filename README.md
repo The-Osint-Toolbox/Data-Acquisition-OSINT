@@ -12,9 +12,9 @@ It is important to remember Data Acquisition OSINT is not just about one stream 
 <br></br>
 Another stream of data worth considering is Data Broker data. Data collected when you sign up for an online service or when you download an app, and is then subsequently sold to Data Brokers. This is then aggregated with other Public Data and Publicly Available Data and combined to provide a product to sell, You can find some of these sites on the People Search repo.
 <table>
-    <tr>
-       <td><a href="https://github.com/The-Osint-Toolbox/People-Search-OSINT">People Search</a></td>
-    </tr>
+   <tr>
+      <td><a href="https://github.com/The-Osint-Toolbox/People-Search-OSINT">People Search</a></td>
+   </tr>
 </table>
 When researching data sites always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently. You can check my Telegram repository for more resources.</p>
 <table>
