@@ -126,6 +126,7 @@ When researching data sites always be careful what you click or download as malw
       <li><a href="https://www.usphonebook.com/phone">US Phonebook</a></li>
       <li><a href="https://www.who.int/data/gho/">WHO Open Data</a></li>
       <li><a href="https://data.worldbank.org/">World Bank Open Data</a></li>
+      <li><a href="https://www.yelp.com/dataset">Yelp Dataset</a></li>
     </ul>
 <table>
 <table>
