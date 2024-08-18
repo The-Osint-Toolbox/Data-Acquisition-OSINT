@@ -2,7 +2,7 @@
 <p align="center">
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
-<p>You can find links to data acquisition websites, all on the clear-web. Some sites will charge you for their service, however some will also offer a small amount of data for free. From a CTI perspective it is important for organisations, whether in the public or private sector to understand what risks exist that might make them vulnerable. These resources are not just for OSINT investigations, they are also for individuals to be able to check for your own data. You may have to check more tham one resource, to truely understand the risk and exposure as they tend to hold different data.
+<p>You can find links to data acquisition websites, all on the clear-web. Some sites will charge you for their service, however some will also offer a small amount of data for free. From a CTI perspective it is important for organisations, whether in the public or private sector to understand what risks exist that might make them vulnerable. These resources are not just for OSINT investigations, they are also for individuals to be able to check for your own data. You may have to check more tham one resource to truely understand the risk and exposure, as they tend to hold different data.
 <br></br>
 Public data and publically available data are two different concepts. Within the UK and the US individual local authority areas / states have there own local public data searches available, to many for rme to list here. The same is true of many other counteries.
 <br></br>
