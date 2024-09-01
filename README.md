@@ -92,6 +92,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://scatteredsecrets.com/">Scattered Secrets</a></li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
+ <li><a href="https://www.slideshare.net/">Slideshare</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://sourcegraph.com/search">SourceGraph</a></li>
  <li><a href="https://www.safer-networking.org/products/spybot-identity-monitor/">SpyBot</a></li>
