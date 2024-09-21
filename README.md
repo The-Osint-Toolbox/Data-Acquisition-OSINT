@@ -83,6 +83,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
  <li><a href="https://opendirsearch.abifog.com/">Open Directory</a></li>
+ <li><a href="https://ewasion.github.io/opendirectory-finder/">Open Directory Finder</a></li>
  <li><a href="https://att.pentester.com/">ATT Pentester</a></li>
  <li><a href="https://npd.pentester.com/">NPD Pentester</a></li>
  <li><a href="https://www.peoplefinders.com/">PeopleFinder</a></li>
