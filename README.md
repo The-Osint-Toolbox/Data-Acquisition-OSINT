@@ -162,13 +162,14 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </ul>
 <table>
    <tr>
-     <td>Ransomware Threat Intelligence</td>
+     <td>Ransomware / Cyber Threat Intelligence</td>
    </tr>
 </table>
    <ul>
     <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li> 
     <li><a href="https://ransomfeed.it/">RansomFeed</a></li>
     <li><a href="https://www.ransomlook.io/">RansomLook</a></li>
+    <li><a href="https://synapsint.com/index.php">Synapslnt</a></li>
     <li><a href="https://tip.neiki.dev/">Tip Neike</a></li>
     <li><a href="https://www.virustotal.com/gui/">Virus Total</a></li>
    </ul>
