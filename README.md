@@ -30,6 +30,21 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>
 <table>
     <tr>
+     <td>File OSINT</td>
+   </tr>
+</table>
+<ul>
+  <li><a href="https://club.dedigger.com/meta-searchs">DeDigger</a></li>
+  <li><a href="https://s3digger.com/#gsc.tab=0">Amazon</a></li>
+  <li><a href="https://drodigger.com/#gsc.tab=0">Dropbox</a></li>
+  <li><a href="https://filemood.com/">Filemood</a></li>
+  <li><a href="https://filepursuit.com/">File Pursuit</a></li>
+  <li><a href="https://www.dedigger.com/#gsc.tab=0">Google Drive</a></li>
+  <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive CSE</a></li>
+  <li><a href="https://yadigger.com/#gsc.tab=0">Yandex</a></li>
+</ul>
+<table>
+    <tr>
      <td>Publicly Available Data Acquisition Sites</td>
    </tr>
 </table>
@@ -48,7 +63,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://github.com/rdillon73/eBreached">eBreached</a></li>
  <li><a href="https://github.com/infobyte/emploleaks">EmploLeaks</a></li>
  <li><a href="https://exposed.lol/">Exposed</a></li>
- <li><a href="https://filepursuit.com">File Pursuit</a></li>
  <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
  <li><a href="https://data.fivethirtyeight.com/">FiveThirtyEight</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
