@@ -30,7 +30,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>
 <table>
     <tr>
-     <td>File OSINT</td>
+     <td>File / Directory OSINT</td>
    </tr>
 </table>
 <ul>
@@ -45,6 +45,8 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
   <li><a href="https://opendirsearch.abifog.com/">Open Directory</a></li>
   <li><a href="https://ewasion.github.io/opendirectory-finder/">Open Directory Finder</a></li>
+  <li><a href="https://sites.google.com/view/l33tech/tools/ods">Open Directory Search</a></li>
+  <li><a href="https://www.eyeofjustice.com/od/">The Eye of Justice</a></li>
   <li><a href="https://yadigger.com/#gsc.tab=0">Yandex</a></li>
 </ul>
 <table>
