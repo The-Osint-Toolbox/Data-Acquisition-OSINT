@@ -41,7 +41,8 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://filepursuit.com/">File Pursuit</a></li>
   <li><a href="https://www.dedigger.com/#gsc.tab=0">Google Drive</a></li>
   <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive CSE</a></li>
-  li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
+  <li><a href="http://lendx.org/">Lendx</a></li>
+  <li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
   <li><a href="https://yadigger.com/#gsc.tab=0">Yandex</a></li>
 </ul>
 <table>
@@ -113,6 +114,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://sourcegraph.com/search">SourceGraph</a></li>
  <li><a href="https://www.safer-networking.org/products/spybot-identity-monitor/">SpyBot</a></li>
  <li><a href="https://www.publicaccountability.org/">The Accountability Project</a></li>
+ <li><a href="https://the-eye.eu/">The Eye</a></li>
  <li><a href="https://www.whatismyip.com/data-breach/">WhatsMyIp-DataBreachTool</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://31.41.244.100/">Wikileaks V2</a></li>
