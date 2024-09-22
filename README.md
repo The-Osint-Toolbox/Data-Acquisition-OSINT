@@ -43,6 +43,8 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive CSE</a></li>
   <li><a href="http://lendx.org/">Lendx</a></li>
   <li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
+  <li><a href="https://opendirsearch.abifog.com/">Open Directory</a></li>
+  <li><a href="https://ewasion.github.io/opendirectory-finder/">Open Directory Finder</a></li>
   <li><a href="https://yadigger.com/#gsc.tab=0">Yandex</a></li>
 </ul>
 <table>
@@ -98,8 +100,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
- <li><a href="https://opendirsearch.abifog.com/">Open Directory</a></li>
- <li><a href="https://ewasion.github.io/opendirectory-finder/">Open Directory Finder</a></li>
  <li><a href="https://att.pentester.com/">ATT Pentester</a></li>
  <li><a href="https://npd.pentester.com/">NPD Pentester</a></li>
  <li><a href="https://www.peoplefinders.com/">PeopleFinder</a></li>
