@@ -28,6 +28,38 @@ Another stream of data worth considering is Data Broker data. Data collected whe
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
     </tr>
 </table>
+  <table>
+    <tr>
+      <td>Table of Contents</td>
+    </tr>
+    <tr>
+      <td><a href="#file/directoryosint">File / Directory OSINT</a></td>
+    </tr>
+    <tr>
+      <td><a href="#googlecse">Google CSE</a></td>
+    </tr>
+    <tr>
+      <td><a href="#publiclyavailabledata">Publicly Available Data</a></td>
+    </tr>
+    <tr>
+      <td><a href="#publicdata">Public Data</a></td>
+    </tr>
+    <tr>
+      <td><a href="#pastesites">Paste Sites</a></td>
+    </tr>
+    <tr>
+      <td><a href="#ransomwarecti">Ransomware / CTI</a></td>
+    </tr>
+    <tr>
+      <td><a href="#reversehashsites">Reverse Hash Sites</a></td>
+    </tr>
+    <tr>
+      <td><a href="#news">News</a></td>
+    </tr>
+    <tr>
+      <td><a href="#video">Videos</a></td>
+    </tr>
+  </table>
 <table>
     <tr>
      <td>File / Directory OSINT</td>
