@@ -60,6 +60,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <td><a href="#video">Videos</a></td>
     </tr>
   </table>
+<div id="file/directoryosint"></div>
 <table>
     <tr>
      <td>File / Directory OSINT</td>
