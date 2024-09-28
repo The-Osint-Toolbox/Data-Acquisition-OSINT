@@ -201,6 +201,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://thephonebook.bt.com/person/">UK Phonebook</a></li>
       <li><a href="https://www.data.gov.uk/">UK Public Data Portal</a></li>
       <li><a href="https://www.supremecourt.uk/current-cases/index.html">UK Surpreme Court</a></li>
+      <li><a href="https://www.thelawpages.com/court-cases/court-case-search.php?mode=1">UK The Law Pages</a></li>
       <li><a href="https://www.gov.uk/search-for-trademark">UK Trademark Search</a></li>
       <li><a href="https://data.unicef.org/">Unicef Open Data</a></li>
       <li><a href="https://data.census.gov/">US Census Data</a></li>
