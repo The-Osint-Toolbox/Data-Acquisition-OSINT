@@ -60,12 +60,12 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <td><a href="#video">Videos</a></td>
     </tr>
   </table>
-<div id="file/directoryosint"></div>
-<table>
-    <tr>
-     <td>File / Directory OSINT</td>
-   </tr>
-</table>
+ <table>
+    <div id="file/directoryosint"></div>
+     <tr>
+       <td>File / Directory OSINT</td>
+     </tr>
+ </table>
 <ul>
   <li><a href="https://club.dedigger.com/meta-searchs">DeDigger</a></li>
   <li><a href="https://s3digger.com/#gsc.tab=0">Amazon</a></li>
