@@ -53,6 +53,17 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </ul>
 <table>
     <tr>
+     <td>Google CSE</td>
+   </tr>
+</table>
+ <ul>
+  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0">Amazon Cloud Search</a></li>
+  <li><a href="https://cse.google.com/cse?cx=d80f8518b11b1438e">Cloud Buckets</a></li>
+  <li><a href="https://cse.google.com/cse/publicurl?cx=013991603413798772546:mu-oio3a980">Filetype</a></li>
+  <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w">Google Drive</a></li>
+ </ul>
+<table>
+    <tr>
      <td>Publicly Available Data Acquisition Sites</td>
    </tr>
 </table>
