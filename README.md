@@ -85,6 +85,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://yadigger.com/#gsc.tab=0">Yandex</a></li>
 </ul>
 <table>
+  <div id="googlecse"></div>
     <tr>
      <td>Google CSE</td>
    </tr>
@@ -96,6 +97,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w">Google Drive</a></li>
  </ul>
 <table>
+  <div id="publiclyavailabledata"></div>
     <tr>
      <td>Publicly Available Data Acquisition Sites</td>
    </tr>
@@ -170,6 +172,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.whitepages.com/">Whitepages</a></li>
 </ul>
 <table>
+  <div id="publicdata"></div>
     <tr>
        <td>Public Data Acquisition Sites</td>
     </tr>
@@ -212,11 +215,12 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://www.yelp.com/dataset">Yelp Dataset</a></li>
     </ul>
 <table>
-<table>
+  <div id="pastesites"></div>
+   <table>
     <tr>
      <td>Paste Sites</td>
    </tr>
-</table>
+ </table>
 <ul>
   <li><a href="https://cybdetective.com/pastebin.html">CybDetective</a></li>
   <li><a href="https://github.com/cipher387/pastebinsearchengines">Google CSE for Pastbin</a></li>
@@ -242,6 +246,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
     <li><a href="https://www.virustotal.com/gui/">Virus Total</a></li>
    </ul>
 <table>
+  <div id="reversehashsites"></div>
     <tr>
      <td>Reverse Hash Sites</td>
    </tr>
@@ -260,6 +265,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.onlinehashcrack.com/">Hash Crack</a></li>
 </ul>
 <table>  
+  <div id="news"></div>
     <tr>
      <td>News</td>
    </tr>
@@ -272,10 +278,11 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://www.infosecurity-magazine.com/data-breaches">InfoSecurity Magazine</a></li>
   <li><a href="https://thehackernews.com/">The Hacker News</a></li>
 </ul>
-<table>
-    <tr>
-     <td>Videos</td>
-   </tr>
+   <div id="videos"></div>
+     <table>
+      <tr>
+       <td>Videos</td>
+     </tr>
 </table>
  <ul>
    <li><a href="https://www.youtube.com/watch?v=AMhY0Dt9sY0&list=PLs4eo9Tja8bi1RZyKT_HlN48QLIRW6HhG&index=4">SANS</a></li>Breach Data Infrastructure. (2024)
