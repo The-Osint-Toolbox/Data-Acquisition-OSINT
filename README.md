@@ -228,9 +228,10 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://redhuntlabs.com/online-ide-search/">Redhunt Labs</a></li>
 </ul>
 <table>
-   <tr>
+  <div id="ransomwarecti"></div>
+    <tr>
      <td>Ransomware / Cyber Threat Intelligence</td>
-   </tr>
+   </tr>
 </table>
    <ul>
     <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li> 
