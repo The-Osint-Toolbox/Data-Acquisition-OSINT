@@ -156,6 +156,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://www.supremecourt.uk/current-cases/index.html">UK Surpreme Court</a></li>
       <li><a href="https://www.gov.uk/search-for-trademark">UK Trademark Search</a></li>
       <li><a href="https://data.unicef.org/">Unicef Open Data</a></li>
+      <li><a href="https://www.archives.gov/research/vital-records">US National Archives</a></li>
       <li><a href="https://data.census.gov/">US Census Data</a></li>
       <li><a href="https://www.bop.gov/inmateloc/">US Federal Bureau of Prisons</a></li>
       <li><a href="https://www.eac.gov/voters/register-and-vote-in-your-state">US Federal State Voting Links</a></li>
