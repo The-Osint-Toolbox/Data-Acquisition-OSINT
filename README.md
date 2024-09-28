@@ -217,9 +217,9 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 <table>
   <div id="pastesites"></div>
    <table>
-    <tr>
-     <td>Paste Sites</td>
-   </tr>
+     <tr>
+       <td>Paste Sites</td>
+     </tr>
  </table>
 <ul>
   <li><a href="https://cybdetective.com/pastebin.html">CybDetective</a></li>
