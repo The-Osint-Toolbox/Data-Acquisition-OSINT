@@ -217,6 +217,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><A href="https://publicrecords.searchsystems.net/">US Search Systems</A></li>
       <li><a href="https://www.who.int/data/gho/">WHO Open Data</a></li>
       <li><a href="https://data.worldbank.org/">World Bank Open Data</a></li>
+      <li><a href="https://search.worldcat.org/">WorldCat Library Search</a></li>
       <li><a href="https://www.yelp.com/dataset">Yelp Dataset</a></li>
     </ul>
 <table>
