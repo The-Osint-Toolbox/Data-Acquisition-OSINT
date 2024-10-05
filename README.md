@@ -185,6 +185,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://base-search.net/">Bielefeld Academic Search Engine</a></li>
       <li><a href="https://www.canlii.org/en/index.php">Canadian Legal Database</a></li>
       <li><a href="https://data.cdrc.ac.uk/search/type/dataset">CDRC Data</a></li>
+      <li><a href="https://consensus.app/">Comsensus</a></li>
       <li><a href="https://core.ac.uk/">Core Research Papers</a></li>
       <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
       <li><a href="https://transparencyreport.google.com/copyright/explore">Google Copyright Explore</a></li>
