@@ -157,6 +157,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
  <li><a href="https://periksadata.com/">Periksa Data</a></li>
  <li><a href="https://www.proxynova.com/tools/comb/">Proxynova</a></li>
+ <li><a href="https://scamsearch.io/">ScamSearch</a></li> 
  <li><a href="https://scatteredsecrets.com/">Scattered Secrets</a></li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
