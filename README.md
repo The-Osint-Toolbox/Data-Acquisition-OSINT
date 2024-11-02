@@ -257,6 +257,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
     <li><a href="https://ioc.one/">IOC</a></li>
     <li><a href="https://ransomfeed.it/">RansomFeed</a></li>
     <li><a href="https://www.ransomlook.io/">RansomLook</a></li>
+    <li><a href="https://www.ransomware.live/">RansomwareLive</a></li>
     <li><a href="https://synapsint.com/index.php">Synapslnt</a></li>
     <li><a href="https://tip.neiki.dev/">Tip Neike</a></li>
     <li><a href="https://www.virustotal.com/gui/">Virus Total</a></li>
