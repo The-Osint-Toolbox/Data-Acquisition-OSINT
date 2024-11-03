@@ -184,6 +184,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>  
     <ul>
       <li><a href="https://academictorrents.com/">Acedemic Torrents</a></li>
+      <li><a href="https://find-doctor.ama-assn.org/">American Medical Association</a></li>
       <li><a href="https://data.gov.au/home">Australian Government Data Portal</a></li>
       <li><a href="https://registry.opendata.aws/">AWS Dataset Search</a></li>
       <li><a href="https://base-search.net/">Bielefeld Academic Search Engine</a></li>
@@ -193,6 +194,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://core.ac.uk/">Core Research Papers</a></li>
       <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
       <li><a href="https://transparencyreport.google.com/copyright/explore">Google Copyright Explore</a></li>
+      <li><a href="https://www.gmc-uk.org/registration-and-licensing/our-registers">General Medcial Council</a></li>
       <li><a href="https://www.google.com/publicdata/directory">Google Public Data Search</a></li>
       <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
       <li><a href="https://opendataimpactmap.org/">Open Data Impact Map</a></li>
