@@ -113,8 +113,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://databreach.com/">DataBreach</a></li>
  <li><a href="https://www.databreaches.net/">DataBreaches</a></li>
  <li><a href="https://www.dbpedia.org/">DBpedia</a></li>
- <li><a href="https://data.ddosecrets.com/">Data-DDosSecrets</a></li>
- <li><a href="https://ddosecrets.com/">DDoSecrets</a></li>
  <li><a href="https://github.com/fastfire/deepdarkCTI">DeepDark CTI</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li>
  <li><a href="https://github.com/rdillon73/eBreached">eBreached</a></li>
