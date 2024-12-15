@@ -197,8 +197,10 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://transparencyreport.google.com/copyright/explore">Google Copyright Explore</a></li>
       <li><a href="https://www.gmc-uk.org/registration-and-licensing/our-registers">General Medcial Council</a></li>
       <li><a href="https://www.google.com/publicdata/directory">Google Public Data Search</a></li>
+      <li><a href="https://archive.org/">Internet Archive</a></li>
       <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
       <li><a href="https://opendataimpactmap.org/">Open Data Impact Map</a></li>
+      <li><a href="https://openlibrary.org/">Open Library</a></li>
       <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
       <li><a href="https://www.refseek.com/">RefSeek Academic Search Engine</a></li>
       <li><a href="https://www.britishnewspaperarchive.co.uk/">The Britich Newspaper Archive</a></li>
