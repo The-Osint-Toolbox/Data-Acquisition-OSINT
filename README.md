@@ -91,11 +91,14 @@ Another stream of data worth considering is Data Broker data. Data collected whe
    </tr>
 </table>
  <ul>
-  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0">Amazon Cloud Search</a></li>
-  <li><a href="https://cse.google.com/cse?cx=d80f8518b11b1438e">Cloud Buckets</a></li>
-  <li><a href="https://cse.google.com/cse/publicurl?cx=013991603413798772546:mu-oio3a980">Filetype</a></li>
-  <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w">Google Drive</a></li>
-  <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive CSE</a></li>
+   <li><a href="https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0">Amazon Cloud Search</a></li>
+   <li><a href="https://cse.google.com/cse?cx=d80f8518b11b1438e">Cloud Buckets</a></li>
+   <li><a href="https://cse.google.com/cse?cx=f466f6ea4886845d1">File Sharing</a></li>
+   <li><a href="https://cse.google.com/cse/publicurl?cx=013991603413798772546:mu-oio3a980">Filetype</a></li>
+   <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive 01</a></li>
+   <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w">Google Drive 02</a></li>
+   <li><a href="https://cse.google.com/cse?cx=465eeeb114c7f523f">Slideshare</a></li>
+   <li><a href="cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60">Wikileaks</a></li>
  </ul>
 <table>
   <div id="publiclyavailabledata"></div>
