@@ -74,7 +74,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://filemood.com/">Filemood</a></li>
   <li><a href="https://filepursuit.com/">File Pursuit</a></li>
   <li><a href="https://www.dedigger.com/#gsc.tab=0">Google Drive</a></li>
-  <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive CSE</a></li>
   <li><a href="http://lendx.org/">Lendx</a></li>
   <li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
   <li><a href="https://odcrawler.xyz/">ODC Crawler</a></li>
@@ -96,6 +95,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://cse.google.com/cse?cx=d80f8518b11b1438e">Cloud Buckets</a></li>
   <li><a href="https://cse.google.com/cse/publicurl?cx=013991603413798772546:mu-oio3a980">Filetype</a></li>
   <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w">Google Drive</a></li>
+  <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive CSE</a></li>
  </ul>
 <table>
   <div id="publiclyavailabledata"></div>
