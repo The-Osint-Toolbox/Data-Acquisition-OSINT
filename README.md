@@ -210,6 +210,8 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://openlibrary.org/">Open Library</a></li>
       <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
       <li><a href="https://www.refseek.com/">RefSeek Academic Search Engine</a></li>
+      <li><a href="https://www.scribd.com/">Scribd</a></li>
+      <li><a href="https://www.slideshare.net/">Slideshare</a></li>
       <li><a href="https://www.britishnewspaperarchive.co.uk/">The Britich Newspaper Archive</a></li>
       <li><a href="https://archive.ics.uci.edu/">UCI Machine Learning Repository</a></li>
       <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
