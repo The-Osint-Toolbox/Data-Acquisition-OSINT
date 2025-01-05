@@ -269,6 +269,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>
    <ul>
     <li><a href="https://abuse.ch/">Abuse Ch</a></li>
+    <li><a href="https://darkwebinformer.com/forums/">DarkWeb Informer</a></li>
     <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li>
     <li><a href="https://ioc.one/">IOC</a></li>
     <li><a href="https://www.infostealers.com/">Infostealers</a></li>
