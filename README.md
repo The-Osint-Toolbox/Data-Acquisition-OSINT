@@ -200,6 +200,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://backlinko.com/tools/people-also-ask">Backlinko PAA</a></li>
       <li><a href="https://base-search.net/">Bielefeld Academic Search Engine</a></li>
       <li><a href="https://www.canlii.org/en/index.php">Canadian Legal Database</a></li>
+      <li><a href="https://id.occrp.org/databases/">Catalogue of Resaerch Databases</a></li>
       <li><a href="https://data.cdrc.ac.uk/search/type/dataset">CDRC Data</a></li>
       <li><a href="https://consensus.app/">Consensus</a></li>
       <li><a href="https://core.ac.uk/">Core Research Papers</a></li>
