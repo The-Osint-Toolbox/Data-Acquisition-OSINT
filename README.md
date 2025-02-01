@@ -125,7 +125,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://dehashed.com/">Dehashed</a></li>
  <li><a href="https://github.com/rdillon73/eBreached">eBreached</a></li>
  <li><a href="https://github.com/infobyte/emploleaks">EmploLeaks</a></li>
- <li><a href="https://exposed.lol/">Exposed</a></li>
  <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
  <li><a href="https://data.fivethirtyeight.com/">FiveThirtyEight</a></li>
  <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Fuck Facebook</a></li>
@@ -170,7 +169,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://scamsearch.io/">ScamSearch</a></li> 
  <li><a href="https://scatteredsecrets.com/">Scattered Secrets</a></li>
  <li><a href="https://www.scribd.com/">Scribd</a></li>
- <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.slideshare.net/">Slideshare</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
