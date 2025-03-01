@@ -71,6 +71,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://www.allyoucanread.com/">All You Can Read</a></li>
   <li><a href="https://s3digger.com/#gsc.tab=0">Amazon</a></li>
   <li><a href="https://drodigger.com/#gsc.tab=0">Dropbox</a></li>
+  <li><a href="https://www.freewareweb.com/ftpsearch.shtml">FreewareWeb</a></li>
   <li><a href="https://filemood.com/">Filemood</a></li>
   <li><a href="https://filepursuit.com/">File Pursuit</a></li>
   <li><a href="https://www.dedigger.com/#gsc.tab=0">Google Drive</a></li>
