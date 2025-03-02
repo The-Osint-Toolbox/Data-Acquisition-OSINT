@@ -188,7 +188,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://31.41.244.100/">Wikileaks V2</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
- <li><a href="https://www.whitepages.com/">Whitepages</a></li>
  <li><a href="https://xposedornot.com/">Xposed Or Not</a></li>
 </ul>
 <table>
@@ -253,6 +252,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://www.regulations.gov/">US Regulations</a></li>
       <li><a href="https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html">US Securities & Exchange Commission</a></li>
       <li><A href="https://publicrecords.searchsystems.net/">US Search Systems</A></li>
+      <li><a href="https://www.whitepages.com/">US Whitepages</a></li>
       <li><a href="https://web.archive.org/collection-search/">Wayback Machine Collection Search</a></li>
       <li><a href="https://www.who.int/data/gho/">WHO Open Data</a></li>
       <li><a href="https://data.worldbank.org/">World Bank Open Data</a></li>
