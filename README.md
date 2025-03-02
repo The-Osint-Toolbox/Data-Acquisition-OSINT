@@ -47,6 +47,9 @@ Another stream of data worth considering is Data Broker data. Data collected whe
     <tr>
       <td><a href="#pastesites">Paste Sites</a></td>
     </tr>
+    <tr>
+      <td><a href="#bittorrent">DHT Crawlers / BTIH Caches</a></td>
+    </tr>
     <tr>
       <td><a href="#ransomwarecti">Ransomware / CTI</a></td>
     </tr>
@@ -271,6 +274,21 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://pastecode.dev/">PasteCode</a></li>
   <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
   <li><a href="https://redhuntlabs.com/online-ide-search/">Redhunt Labs</a></li>
+</ul>
+<table>
+  <div id="bittorrent"></div>
+   <table>
+     <tr>
+       <td>DHT Crawlers / BitTorrent Info Hash Caches</td>
+     </tr>
+ </table>
+<ul>
+  <li><a href="https://btdig.com/">BTDigg</a></li>
+  <li><a href="https://bt4gprx.com/">BT4G</a></li>
+  <li><a href="https://solidtorrents.eu/">SolidTorrents</a></li>
+  <li><a href="https://iknowwhatyoudownload.com">IKnowWhatYouDownload</a></li>
+  <li><a href="https://itorrents.org/">iTorrents</a></li>
+  <li><a href="https://btcache.me/">btcache.me</a></li>
 </ul>
 <table>
   <div id="ransomwarecti"></div>
