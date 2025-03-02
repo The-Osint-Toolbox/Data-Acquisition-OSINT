@@ -225,12 +225,13 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://www.refseek.com/">RefSeek Academic Search Engine</a></li>
       <li><a href="https://www.britishnewspaperarchive.co.uk/">The Britich Newspaper Archive</a></li>
       <li><a href="https://archive.ics.uci.edu/">UCI Machine Learning Repository</a></li>
-      <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
+      <li><a href="https://apps.london.gov.uk/cim/index.html">UK London Cultural Infrastructure Map</a></li>
       <li><a href="https://find-and-update.company-information.service.gov.uk/">UK Companies House</a></li>
       <li><a href="https://www.judiciary.uk/judgments/">UK Courts & Tribunals Judiciary.</a></li>
       <li><a href="https://ico.org.uk/">UK Information Commissioner's Office</a></li>
       <li><a href="https://www.gmc-uk.org/registration-and-licensing/the-medical-register">UK GMC Medical Register</a></li>
       <li><a href="https://www.data.gov.uk/">UK Government Data Portal</a></li>
+      <li><a href="https://www.gov.uk/search-property-information-land-registry">UK Land Registry</a></li>
       <li><a href="https://www.gov.uk/search-library-catalogue">UK Library Search</a></li>
       <li><a href="https://discovery.nationalarchives.gov.uk/">UK National Archives</a></li>
       <li><a href="https://www.gov.uk/search-register-planning-decisions">UK Planning Portal</a></li>
