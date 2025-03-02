@@ -280,6 +280,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>
    <ul>
     <li><a href="https://abuse.ch/">Abuse Ch</a></li>
+    <li><a href="https://dailydarkweb.net/">DailyDarkWeb</a></li>
     <li><a href="https://darkwebinformer.com/tag/onions/">DarkWeb Informer</a></li>
     <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li>
     <li><a href="https://www.hendryadrian.com/">HendryAdrian</a></li>
