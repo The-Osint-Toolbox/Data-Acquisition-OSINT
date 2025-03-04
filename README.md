@@ -276,6 +276,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://paste.mozilla.org/">Mozilla Community Pastebin</a></li>
   <li><a href="https://pastebin.com/">Pastbin</a></li>
   <li><a href="https://pastecode.dev/">PasteCode</a></li>
+  <li><a href="https://privx.li/">Privx</a></li>
   <li><a href="https://psbdmp.ws/">Psbdmp</a></li>
   <li><a href="https://redhuntlabs.com/online-ide-search/">Redhunt Labs</a></li>
 </ul>
