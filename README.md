@@ -78,7 +78,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://filemood.com/">Filemood</a></li>
   <li><a href="https://filepursuit.com/">File Pursuit</a></li>
   <li><a href="https://www.dedigger.com/#gsc.tab=0">Google Drive</a></li>
-  <li><a href="https://grayhatwarfare.com/">GreyHat</a></li>
+  <li><a href="https://grayhatwarfare.com/">GrayHat</a></li>
   <li><a href="http://lendx.org/">Lendx</a></li>
   <li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
   <li><a href="https://www.mmnt.ru/">mmnt</a></li>
@@ -109,7 +109,8 @@ Another stream of data worth considering is Data Broker data. Data collected whe
    <li><a href="https://cse.google.com/cse?cx=c64ba311eb8c31896">Google Drive 01</a></li>
    <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w">Google Drive 02</a></li>
    <li><a href="https://cse.google.com/cse?cx=465eeeb114c7f523f">Slideshare</a></li>
-   <li><a href="cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60">Wikileaks</a></li>
+   <li><a href="https://cse.google.com/cse?cx=017261104271573007538:magh-vr6t6g#gsc.tab=0">URL Shorteners</a></li>
+   <li><a href="https://cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60">Wikileaks</a></li>
  </ul>
 <table>
   <div id="publiclyavailabledata"></div>
@@ -348,6 +349,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://anydesk.com/en/downloads/linux">Hackmanac</a></li>
   <li><a href="https://www.infosecurity-magazine.com/data-breaches">InfoSecurity Magazine</a></li>
   <li><a href="https://thehackernews.com/">The Hacker News</a></li>
+  <li><a href="https://lumendatabase.org/">Lumen - Removal Complaint Notices</a></li>
 </ul>
    <div id="videos"></div>
      <table>
