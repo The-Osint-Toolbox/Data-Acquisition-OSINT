@@ -305,6 +305,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
     <li><a href="https://abuse.ch/">Abuse Ch</a></li>
     <li><a href="https://dailydarkweb.net/">DailyDarkWeb</a></li>
     <li><a href="https://github.com/DarkWebInformer/DarkWatchCTI">Darkwatch CTI</a></li>
+    <li><a href="https://darkwebdaily.live/">DarkwebDaily</a></li>
     <li><a href="https://darkwebinformer.com/tag/onions/">DarkWeb Informer</a></li>
     <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li>
     <li><a href="https://www.hendryadrian.com/">HendryAdrian</a></li>
@@ -343,8 +344,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
    </tr>
 </table>
 <ul>
-  <li><a href="https://dailydarkweb.net/">Daily Darkweb</a></li>
-  <li><a href="https://darkwebinformer.com/">DarkWeb Informer</a></li>
   <li><a href="https://databreaches.net/">Data Breaches</a></li>
   <li><a href="https://anydesk.com/en/downloads/linux">Hackmanac</a></li>
   <li><a href="https://www.infosecurity-magazine.com/data-breaches">InfoSecurity Magazine</a></li>
