@@ -358,6 +358,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
      </tr>
 </table>
  <ul>
-   <li><a href="https://www.youtube.com/watch?v=AMhY0Dt9sY0&list=PLs4eo9Tja8bi1RZyKT_HlN48QLIRW6HhG&index=4">SANS</a></li>Breach Data Infrastructure. (2024)
+   <li><a href="https://www.youtube.com/watch?v=AMhY0Dt9sY0&list=PLs4eo9Tja8bi1RZyKT_HlN48QLIRW6HhG&index=4">SANS - Breach Data Infrastructure (2024)</a></li>
+   <li><a href="https://www.youtube.com/watch?v=3V-2_RBjSuw&list=PLs4eo9Tja8bhylkl08gOAilnbdD3dFYiv&index=11">SANS - Demystifying Data Dumps (2023)</a></li>
  </ul>
 <br></br>
