@@ -350,8 +350,8 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="https://databreaches.net/">Data Breaches</a></li>
   <li><a href="https://anydesk.com/en/downloads/linux">Hackmanac</a></li>
   <li><a href="https://www.infosecurity-magazine.com/data-breaches">InfoSecurity Magazine</a></li>
-  <li><a href="https://thehackernews.com/">The Hacker News</a></li>
   <li><a href="https://lumendatabase.org/">Lumen - Removal Complaint Notices</a></li>
+  <li><a href="https://thehackernews.com/">The Hacker News</a></li>
 </ul>
    <div id="videos"></div>
      <table>
