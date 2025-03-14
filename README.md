@@ -219,6 +219,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://www.gmc-uk.org/registration-and-licensing/our-registers">General Medcial Council</a></li>
       <li><a href="https://www.google.com/publicdata/directory">Google Public Data Search</a></li>
       <li><a href="https://archive.org/">Internet Archive</a></li>
+      <li><a href="https://lumendatabase.org/">Lumen - Removal Complaint Notices</a></li>
       <li><A href="https://projects.propublica.org/nonprofits/">Nonprofit Explorer</A></li>
       <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
       <li><a href="https://opendataimpactmap.org/">Open Data Impact Map</a></li>
