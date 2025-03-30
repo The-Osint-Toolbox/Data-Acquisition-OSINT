@@ -247,13 +247,13 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://find-doctor.ama-assn.org/">US American Medical Association</a></li>
       <li><a href="https://data.census.gov/">US Census Data</a></li>
       <li><a href="https://www.judyrecords.com/">US Court Records - judyrecords</a></li>
+      <li><a href="https://olmsapps.dol.gov/olpdr/">US Dept of Labour </a></li>
       <li><a href="https://www.bop.gov/inmateloc/">US Federal Bureau of Prisons</a></li>
       <li><a href="https://science.gov/">US Federal Science Information</a></li>
       <li><a href="https://www.eac.gov/voters/register-and-vote-in-your-state">US Federal State Voting Links</a></li>
       <li><a href="https://www.ftc.gov/legal-library/browse/cases-proceedings">US Federal Trade Commission</a></li>
       <li><a href="https://data.gov/">US Government Data Portal</a></li>
       <li><a href="https://www.archives.gov/research/vital-records">US National Archives</a></li>
-      <li><a href="https://olmsapps.dol.gov/olpdr/">US Dept of Labour </a></li>
       <li><a href="https://www.usphonebook.com/phone">US Phonebook</a></li>
       <li><a href="https://www.regulations.gov/">US Regulations</a></li>
       <li><a href="https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html">US Securities & Exchange Commission</a></li>
