@@ -189,7 +189,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.publicaccountability.org/">The Accountability Project</a></li>
  <li><a href="https://the-eye.eu/">The Eye</a></li>
  <li><a href="https://trufflesecurity.com/trufflehog">TruffleHog</a></li>
- <li><a href="https://discordleaks.unicornriot.ninja/discord/">Ubicorn Riot</a></li>
+ <li><a href="https://discordleaks.unicornriot.ninja/">Ubicorn Riot</a></li>
  <li><a href="https://weleakinfo.io/">WeLeakInfo</a></li>
  <li><a href="https://www.whatismyip.com/data-breach/">WhatsMyIp-DataBreachTool</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
