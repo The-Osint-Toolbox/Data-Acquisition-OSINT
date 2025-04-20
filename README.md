@@ -147,9 +147,10 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://haveibeenzuckered.com/">Haveibeenzuckered</a></li>
  <li><a href="https://www.hotsheet.com/inoitsu/">Hotsheet</a></li>
  <li><a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools/">Hudson Rock Cybercrime Intelligence Tools</a></li>
- <li><a href="https://www.intelius.com/">Intelius</a></li> 
  <li><a href="https://www.idstrong.com/">Id Strong</a></li> 
+ <li><a href="https://infotrail.io/">InfoTrail</a></li>
  <li><a href="https://inteltechniques.com/tools/Breaches.html">Inteltechniques</a></li>
+ <li><a href="https://www.intelius.com/">Intelius</a></li> 
  <li><a href="https://intelx.io/">Intelx</a></li>
  <li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>
  <li><a href="https://leakbase.io/">Leakbase</a></li>
@@ -161,9 +162,9 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
  <li><a href="https://github.com/JoelGMSec/LeakSearch">LeakSearch</a></li>
+ <li><a href="https://search.libraryofleaks.org/">Library of Leaks</a></li>
  <li><a href="https://osint.lolarchiver.com/database_lookup">Lol Archiver</a></li>
  <li><a href="https://loseprivacy.net/">LosePrivacy PWNED!</a></li>
- <li><a href="https://search.libraryofleaks.org/">Library of Leaks</a></li>
  <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
  <li><a href="https://myth.rip/">Myth</a></li>
  <li><a href="https://nuclearleaks.com/search">Nuclear Leaks</a></li>
