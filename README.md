@@ -327,6 +327,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
     <li><a href="https://synapsint.com/index.php">Synapslnt</a></li>
     <li><a href="https://tip.neiki.dev/">Tip Neike</a></li>
     <li><a href="https://www.troyhunt.com/">Troy Hunt</a></li> 
+    <li><a href="https://urlhaus.abuse.ch/browse/">URLhaus</a></li>
     <li><a href="https://www.virustotal.com/gui/">Virus Total</a></li>
    </ul>
 <table>
