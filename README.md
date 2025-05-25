@@ -196,7 +196,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://weleakinfo.io/">WeLeakInfo</a></li>
  <li><a href="https://www.whatismyip.com/data-breach/">WhatsMyIp-DataBreachTool</a></li>
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
- <li><a href="https://31.41.244.100/">Wikileaks V2</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
  <li><a href="https://xposedornot.com/">Xposed Or Not</a></li>
 </ul>
