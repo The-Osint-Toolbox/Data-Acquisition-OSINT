@@ -159,10 +159,11 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://leaked.domains/">Leaked Domains</a></li>
  <li><a href="https://leakedpassword.com/">Leaked Passwords</a></li>
  <li><a href="https://leakix.net/">Leakix</a></li>
- <li><a href="https://leak.sx/">Leaksx</a></li>
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
+ <li><a href="https://leakradar.io/">LeakRadar</a></li>
  <li><a href="https://github.com/JoelGMSec/LeakSearch">LeakSearch</a></li>
+ <li><a href="https://leak.sx/">Leaksx</a></li>
  <li><a href="https://search.libraryofleaks.org/">Library of Leaks</a></li>
  <li><a href="https://osint.lolarchiver.com/database_lookup">Lol Archiver</a></li>
  <li><a href="https://loseprivacy.net/">LosePrivacy PWNED!</a></li>
