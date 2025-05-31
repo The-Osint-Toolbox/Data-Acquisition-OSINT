@@ -143,6 +143,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
  <li><a href="https://grep.app/">Grep App</a>&nbsp;&nbsp;</li>
  <li><a href="https://github.com/khast3x/h8mail">H8mail</a></li>
+ <li><a href="https://hackedlist.io/">HackedList</a></li>
  <li><a href="https://github.com/hacxx-underground/Files">Hacxx Underground</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
