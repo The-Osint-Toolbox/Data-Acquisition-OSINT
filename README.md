@@ -212,6 +212,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>  
     <ul>
       <li><a href="https://academictorrents.com/">Acedemic Torrents</a></li>
+      <li><a href="https://hub.arcgis.com/search?collection=Dataset">ArcGIS Hub</a></li>
       <li><a href="https://researchworks.oclc.org/archivegrid/">ArchiveGrid</a></li>
       <li><a href="https://data.gov.au/home">Australian Government Data Portal</a></li>
       <li><a href="https://www.data.gv.at/en/">Austrian Government Data Portal</a></li>
