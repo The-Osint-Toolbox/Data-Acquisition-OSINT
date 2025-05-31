@@ -224,6 +224,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://consensus.app/">Consensus</a></li>
       <li><a href="https://core.ac.uk/">Core Research Papers</a></li>
       <li><a href="https://dataportals.org/search">Data Portals</a></li>
+      <li><a href="https://data.europa.eu/en">Europen Data</a></li>
       <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
       <li><a href="https://transparencyreport.google.com/copyright/explore">Google Copyright Explore</a></li>
       <li><a href="https://www.gmc-uk.org/registration-and-licensing/our-registers">General Medcial Council</a></li>
