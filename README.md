@@ -173,6 +173,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
  <li><a href="https://myth.rip/">Myth</a></li>
  <li><a href="https://nuclearleaks.com/search">Nuclear Leaks</a></li>
+ <li><a href="https://oathnet.ru/">Oathnet</a></li>
  <li><a href="https://offshoreleaks.icij.org/">Offshore Leaks</a></li>
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
