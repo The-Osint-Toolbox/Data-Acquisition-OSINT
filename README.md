@@ -124,6 +124,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://breachbase.com/">Breachbase</a></li>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
  <li><a href="https://breachforums.st/">Breach Forums</a></li>
+ <li><a href="https://en.btdig.com/">BTDigg</a></li>
  <li><a href="https://covertlabs.io/">Covert Labs</a></li>
  <li><a href="https://cryptome.org/">Cryptome</a></li>
  <li><a href="https://cybernews.com/personal-data-leak-check/">Cybernews</a></li>
