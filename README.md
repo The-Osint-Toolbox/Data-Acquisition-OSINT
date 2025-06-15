@@ -195,6 +195,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://scamsearch.io/">ScamSearch</a></li> 
  <li><a href="https://scatteredsecrets.com/">Scattered Secrets</a></li>
  <li><a href="https://www.scribd.com/">Scribd</a></li>
+ <li><a href="https://searchhub.ru/">Search Hub</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.slideshare.net/">Slideshare</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
@@ -210,6 +211,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://wikileaks.org/">Wikileaks</a></li>
  <li><a href="https://whiteintel.io/">WhiteIntel</a></li>
  <li><a href="https://xposedornot.com/">Xposed Or Not</a></li>
+ <li><a href="https://zintel.cloud/">Zintel</a></li>
 </ul>
 <table>
   <div id="publicdata"></div>
