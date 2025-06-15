@@ -126,6 +126,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://breachbase.com/">Breachbase</a></li>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
  <li><a href="https://breachforums.st/">Breach Forums</a></li>
+ <li><a href="https://breach.vip/">Breach VIP{</a></li> 
  <li><a href="https://en.btdig.com/">BTDigg</a></li>
  <li><a href="https://checkleaked.cc/">CheckLeaked</a></li>
  <li><a href="https://covertlabs.io/">Covert Labs</a></li>
