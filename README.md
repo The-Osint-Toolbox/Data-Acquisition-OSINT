@@ -120,12 +120,14 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>
 <ul>
  <li><a href="https://9ghz.com/">9ghz</a></li>  
+ <li><a href="https://amibreached.com/">Am I Breached</a></li>
  <li><a href="https://open-search.aleph-networks.eu/">Aleph Open Search</a></li>
  <li><a href="https://archive.org/details/datasets">Archive Datasets</a></li>
  <li><a href="https://breachbase.com/">Breachbase</a></li>
  <li><a href="https://breachdirectory.org/">Breach Directory</a></li>
  <li><a href="https://breachforums.st/">Breach Forums</a></li>
  <li><a href="https://en.btdig.com/">BTDigg</a></li>
+ <li><a href="https://checkleaked.cc/">CheckLeaked</a></li>
  <li><a href="https://covertlabs.io/">Covert Labs</a></li>
  <li><a href="https://cryptome.org/">Cryptome</a></li>
  <li><a href="https://cybernews.com/personal-data-leak-check/">Cybernews</a></li>
@@ -180,6 +182,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
  <li><a href="https://www.osintcanada.com/desktop-tools/document-search">OSINT Canada Document Search</a></li>
+ <li><a href="https://csint.dev/">OSINT Dev</a></li>
  <li><a href="https://osintleak.com/">OsintLeaks</a></li>
  <li><a href="https://att.pentester.com/">ATT Pentester</a></li>
  <li><a href="https://npd.pentester.com/">NPD Pentester</a></li>
@@ -199,6 +202,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.safer-networking.org/products/spybot-identity-monitor/">SpyBot</a></li>
  <li><a href="https://www.publicaccountability.org/">The Accountability Project</a></li>
  <li><a href="https://the-eye.eu/">The Eye</a></li>
+ <li><a href="https://tracked.sh/">Tracker</a></li>
  <li><a href="https://trufflesecurity.com/trufflehog">TruffleHog</a></li>
  <li><a href="https://discordleaks.unicornriot.ninja/">Ubicorn Riot</a></li>
  <li><a href="https://weleakinfo.io/">WeLeakInfo</a></li>
