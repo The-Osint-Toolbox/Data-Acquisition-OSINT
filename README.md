@@ -225,6 +225,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://researchworks.oclc.org/archivegrid/">ArchiveGrid</a></li>
       <li><a href="https://data.gov.au/home">Australian Government Data Portal</a></li>
       <li><a href="https://www.data.gv.at/en/">Austrian Government Data Portal</a></li>
+      <li><a href="https://trove.nla.gov.au/about">Australian Trove, search libraries, universities, museums, galleries and archives.</a></li>
       <li><a href="https://registry.opendata.aws/">AWS Dataset Search</a></li>
       <li><a href="https://backlinko.com/tools/people-also-ask">Backlinko PAA</a></li>
       <li><a href="https://base-search.net/">Bielefeld Academic Search Engine</a></li>
