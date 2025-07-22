@@ -161,7 +161,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.intelius.com/">Intelius</a></li> 
  <li><a href="https://intelx.io/">Intelx</a></li>
  <li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>
- <li><a href="https://leakbase.io/">Leakbase</a></li>
+ <li><a href="https://leakbase.la/">Leakbase</a></li>
  <li><a href="https://leakcheck.io/">Leakcheck</a></li>
  <li><a href="https://leaked.domains/">Leaked Domains</a></li>
  <li><a href="https://leakedpassword.com/">Leaked Passwords</a></li>
