@@ -199,6 +199,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://www.slideshare.net/">Slideshare</a></li>
  <li><a href="https://snusbase.com/">SnusBase</a></li>
  <li><a href="https://sourcegraph.com/search">SourceGraph</a></li>
+ <li><a href="https://spacefrontiers.org/#home">SpaceFrontiers (Academic)</a></li>
  <li><a href="https://www.safer-networking.org/products/spybot-identity-monitor/">SpyBot</a></li>
  <li><a href="https://www.publicaccountability.org/">The Accountability Project</a></li>
  <li><a href="https://the-eye.eu/">The Eye</a></li>
