@@ -166,7 +166,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://leakbase.la/">Leakbase</a></li>
  <li><a href="https://leakcheck.io/">Leakcheck</a></li>
  <li><a href="https://leaked.domains/">Leaked Domains</a></li>
- <li><a href="https://leakedpassword.com/">Leaked Passwords</a></li>
+ <li><a href="https://leakedpassword.com/">Leaked Password</a></li>
  <li><a href="https://leakix.net/">Leakix</a></li>
  <li><a href="https://leak-lookup.com/">Leak-Lookup</a></li>
  <li><a href="https://leakpeek.com/">Leakpeek</a></li>
