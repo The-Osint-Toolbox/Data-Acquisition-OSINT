@@ -358,6 +358,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
     <li><a href="https://seized.fyi/">Seized</a></li>
     <li><a href="https://socradar.io/labs/">SOC Labs</a></li>
     <li><a href="https://synapsint.com/index.php">Synapslnt</a></li>
+    <li><a href="https://github.com/DarkWebInformer/Threat-Surface">Threat-Surface</a></li>
     <li><a href="https://tip.neiki.dev/">Tip Neike</a></li>
     <li><a href="https://www.troyhunt.com/">Troy Hunt</a></li> 
     <li><a href="https://urlhaus.abuse.ch/browse/">URLhaus</a></li>
