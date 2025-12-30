@@ -341,6 +341,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
 </table>
    <ul>
     <li><a href="https://abuse.ch/">Abuse Ch</a></li>
+    <li><a href="https://github.com/blackorbird/APT_REPORT/tree/master/summary/2025">APT Reports</a></li>
     <li><a href="https://github.com/Ephrimgnanam/Cute-Stealers">Cute Stealer List</a></li>
     <li><a href="https://dailydarkweb.net/">DailyDarkWeb</a></li>
     <li><a href="https://github.com/DarkWebInformer/DarkWatchCTI">Darkwatch CTI</a></li>
