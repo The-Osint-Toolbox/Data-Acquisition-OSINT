@@ -71,6 +71,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  </table>
 <ul>
   <li><a href="https://www.allyoucanread.com/">All You Can Read</a></li>
+  <li><a href="https://www.aware-online.com/en/osint-tools/filetype-search-tool/">Aware Online Filetype Search</a></li>
   <li><a href="https://s3digger.com/#gsc.tab=0">Amazon</a></li>
   <li><a href="https://drodigger.com/#gsc.tab=0">Dropbox</a></li>
   <li><a href="https://www.freewareweb.com/ftpsearch.shtml">FreewareWeb</a></li>
@@ -79,7 +80,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
   <li><a href="http://www.findpdfdoc.com/">Find PDF doc</a></li>
   <li><a href="https://filesearch.link/">FileSearch</a></li>
   <li><a href="https://www.dedigger.com/#gsc.tab=0">Google Drive Search 1</a></li>
-  <li><a href="https://drivesearch.kwebpia.net/">Google Drive Search 2</a><li>
   <li><a href="https://grayhatwarfare.com/">GrayHat</a></li>
   <li><a href="http://lendx.org/">Lendx</a></li>
   <li><a href="https://www.mmnt.ru/int/">Mamont</a></li>
