@@ -245,6 +245,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
       <li><a href="https://index.commoncrawl.org/">Common Crawl Index</a></li>
       <li><a href="https://consensus.app/">Consensus</a></li>
       <li><a href="https://core.ac.uk/">Core Research Papers</a></li>
+      <li><a href="https://search.crossref.org/">Crossref</a></li>
       <li><a href="https://dataportals.org/search">Data Portals</a></li>
       <li><a href="https://data.europa.eu/en">Europen Data</a></li>
       <li><a href="https://opendatamonitor.eu">European Open Data Monitor</a></li>
