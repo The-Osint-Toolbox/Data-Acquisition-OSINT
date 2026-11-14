@@ -193,6 +193,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://onlinenewspapers.com/index.shtml">Online Newspapers</a></li>
  <li><a href="https://ewasion.github.io/opendirectory-finder/">Open Directory Finder</a></li>
  <li><a href="https://github.com/DarkWebInformer/OperationArchive">Operation Archive</a></li>
+ <li><a href="https://useopsis.com/">Opsis</a></li>
  <li><a href="https://www.osintcanada.com/desktop-tools/document-search">OSINT Canada Document Search</a></li>
  <li><a href="https://csint.dev/">OSINT Dev</a></li>
  <li><a href="https://osintleak.com/">OsintLeaks</a></li>
