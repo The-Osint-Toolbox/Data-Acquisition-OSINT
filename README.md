@@ -230,6 +230,10 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://xposedornot.com/">Xposed Or Not</a></li>
  <li><a href="https://zintel.cloud/">Zintel</a></li>
 </ul>
+API or checking domain against infostealer logs
+<br></br>
+api.lunarcyber.com/domain-exposure?domain=DOMAIN HERE.com
+<br></br>
 <table>
   <div id="publicdata"></div>
     <tr>
