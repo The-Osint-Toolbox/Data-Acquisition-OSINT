@@ -158,7 +158,7 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <li><a href="https://hackedlist.io/">HackedList</a></li>
  <li><a href="https://github.com/hacxx-underground/Files">Hacxx Underground</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
- <li><a href="https://haveibeenransom.com/">Haveibeenranson</a></li>
+ <li><a href="https://haveibeenransom.com/">Haveibeenransom</a></li>
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
  <li><a href="https://haveibeenzuckered.com/">Haveibeenzuckered</a></li>
  <li><a href="https://www.hotsheet.com/inoitsu/">Hotsheet</a></li>
@@ -366,6 +366,7 @@ api.lunarcyber.com/domain-exposure?domain=DOMAIN HERE.com
     <li><a href="https://databreaches.net/">DataBreaches</a></li> 
     <li><a href="daunt.link">Daunt</a></li>
     <li><a href="https://github.com/fastfire/deepdarkCTI">FastFire</a></li>
+    <li><a href="https://haveibeenransom.com/">Have I Been Ransomed?</a></li>
     <li><a href="https://www.hendryadrian.com/">HendryAdrian</a></li>
     <li><a href="https://ioc.one/">IOC</a></li>
     <li><a href="https://www.infostealers.com/">Infostealers</a></li>
